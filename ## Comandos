@@ -1,0 +1,17 @@
+## Comandos
+npx react-native init login --template react-native-template-typescript
+npm install --save react-native-navigation
+npx rnn-link
+pod install --project-directory=ios
+
+npm install --save react-native-video
+`Para ios: correr cd ios && pod install && cd ..`
+
+## links
+https://wix.github.io/react-native-navigation/docs/installing/
+https://github.com/react-native-video/react-native-video
+https://github.com/jondot/awesome-react-native
+https://appcenter.ms/
+
+## video 
+https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4
